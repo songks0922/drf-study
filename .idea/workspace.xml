@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de679377-9a6a-47b3-9ba2-96a2ed16db44" name="Changes" comment="refactor: change directory structure" />
+    <list default="true" id="de679377-9a6a-47b3-9ba2-96a2ed16db44" name="Changes" comment="refactor: change directory structure">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +30,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/dev/drf_study/VueDjAgency-ch0"
+    "last_opened_file_path": "C:/dev/drf_study"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,6 +45,8 @@
       <workItem from="1658221664852" duration="486000" />
       <workItem from="1658222155275" duration="49000" />
       <workItem from="1658222253316" duration="42000" />
+      <workItem from="1658222462252" duration="98000" />
+      <workItem from="1658222617584" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: change directory structure">
       <created>1658221351090</created>
